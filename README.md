@@ -47,6 +47,27 @@ Ripple exhibe una tendencia alcista pronunciada tanto en su market cap como en s
 7. Binance Coin (BNB):
 Nuestra evaluación revela que Binance Coin presenta una tendencia a la baja y los volúmenes de operación están disminuyendo notablemente. Esta moneda no se encuentra en su mejor momento para invertir y recomendamos precaución al considerarla como opción de inversión, al menos en este tiempo.
 
+## **KPIs**
+
+El término KPI, siglas en inglés, de Key Performance Indicator, cuyo significado en castellano vendría a ser Indicador Clave de Desempeño o Medidor de Desempeño, hace referencia a una serie de métricas que se utilizan para sintetizar la información sobre el rendimiento y productividad de las acciones que se lleven a cabo en un negocio con el fin de poder tomar decisiones. En el caso de nuestro cliente, buscamos que su incursión en el mundo de las cripto sea satisfactoria y resguarde y, si es posible, gane dinero. Determinamos los siguientes KPIs, independientemente del medio de inversión que se elija:
+
+* KPI: Market cap interanual no disminuya un 30%.
+
+Métrica: Market cap interanual.
+
+Este indicador nos servirá para identificar riesgo y ponernos en alerta respecto a la criptomoneda respectiva. Por supuesto que deberemos analizar otros factores para tomar decisiones de vender o mantenernos con el activo, no es condición suficiente.
+
+* KPI: Promedio de volumen de 24 h mensual superior al 20% y precio estable.
+
+Métrica: Promedio de volumen de 24h mensual.
+
+Es un indicador que, sumado al precio de mercado en determinado momento, nos abre la posibilidad de comprar nuevas divisas de esa criptomoneda y capitalizar.
+
+* KPI: Duplicar las inversiones iniciales en criptomonedas en los próximos dos años.
+
+Si la perspectiva de mercado es propicia y el cliente considera adecuado su ingreso al mercado cripto definiremos como objetivo este KPI el cual denotaría rendimientos y confianza en el mundo de las criptomonedas.
+
+
 ## Material complementario.
 
 ### **Proof of Stake**  
